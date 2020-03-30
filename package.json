@@ -6,19 +6,12 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jaiendiran/Sri-Raghavendra-Industries.git"
-  },
   "keywords": [
     "website"
   ],
   "author": "Jaiendiran M",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Jaiendiran/Sri-Raghavendra-Industries/issues"
-  },
-  "homepage": "https://github.com/Jaiendiran/Sri-Raghavendra-Industries#readme",
+  "homepage": "",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
