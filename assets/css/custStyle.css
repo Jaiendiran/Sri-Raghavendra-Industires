@@ -50,23 +50,23 @@ a:hover {
 }
 
 .sec1_content {
-    background-image: url(/dist/assets/img/BG_Imgs/industry_BG.svg);
+    background-image: url(../img/BG_Imgs/industry_BG.svg);
 }
 
 .sec2_content {
-    background-image: url(/dist/assets/img/BG_Imgs/product_bg.svg);
+    background-image: url(../img/BG_Imgs/product_bg.svg);
 }
 
 .sec3_content {
-    background-image: url(/dist/assets/img/BG_Imgs/service_bg.svg);
+    background-image: url(../img/BG_Imgs/service_bg.svg);
 }
 
 .sec4_content {
-    background-image: url(/dist/assets/img/BG_Imgs/policy_bg.svg);
+    background-image: url(../img/BG_Imgs/policy_bg.svg);
 }
 
 .sec5_content {
-    background-image: url(/dist/assets/img/BG_Imgs/team_bg.svg);
+    background-image: url(../img/BG_Imgs/team_bg.svg);
 }
 
 .link_h2 {
@@ -281,4 +281,9 @@ a:hover {
 
 .mdl_h3 {
     margin: 0px 10px 0px 10px;
+}
+
+.form_lnk {
+    color: #fff;
+    pointer-events: none;
 }
