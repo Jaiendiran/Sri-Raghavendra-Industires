@@ -1,8 +1,3 @@
-// To prevent last load
-// if ('scrollRestoration' in history) {
-//   history.scrollRestoration = 'manual';
-// }
-
 // Google Maps Integration
 function initMap() {
     let uluru = {lat: 13.125279, lng: 79.997621};
@@ -17,7 +12,6 @@ function initMap() {
         map: map
       });
 }
-
 // back to top button
 let btn = $('#backToTop');
 
@@ -28,9 +22,7 @@ $(window).scroll(function() {
     btn.removeClass('show');
   }
 });
-
 // Form Vlaidation
-
 function validateForm() {
   // email validation
   if (isEmpty(document.getElementById('data_4').value.trim())) {
@@ -63,6 +55,3 @@ function validateEmail(email) {
   var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,15}(?:\.[a-z]{2})?)$/i;
   return isEmpty(email) || re.test(email);
 }
-
-// Modal
-
