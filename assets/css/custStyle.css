@@ -261,5 +261,9 @@ a:hover {
     color: #fff;
     pointer-events: none
 }
+.ftr_lnk {
+    color: #d2c2f6;
+    pointer-events: none
+}
 /* Ads section */
 .ads {}
