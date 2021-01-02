@@ -1,5 +1,5 @@
 {
-  "name": "sri16.site",
+  "name": "raghavendra16.in",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   ],
   "author": "Jaiendiran M",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://jaiendiran.github.io/Sri-Raghavendra-Industires/",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
