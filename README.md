@@ -1,1 +1,1 @@
-Link: https://jaiendiran.github.io/Sri-Raghavendra-Industires/
+Link: https://raghavendra.ind.in
